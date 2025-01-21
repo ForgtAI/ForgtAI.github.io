@@ -46,15 +46,23 @@ Fairness and Ethical Development
 ### Corina Besliu, Technical University of Moldova, Moldova 
 ### Nicoleta Rogovschi,  Paris Descartes University, France
 
+<hr>
+
 # Paper Submission
 ## Submission guidelines
 We accept full or short paper submissions. Full paper submissions (up to 8 pages) will be considered for publication in the IJCNN 2025 proceedings on the IEEE Xplore Digital Library. Short papers (up to 4 pages) will be considered as poster presentations at the conference; however, these will not be included in the proceedings. Papers must be submitted through the IJCNN 2025 CMT System.
 ## Deadline: 20/03/2025
 
+<hr>
+
 # Program Committee
 TBA
 
+<hr>
+
 # Sponsors
 The workshop is organised under the support of the [PANDORA](https://pandora-heu.eu/) European project.
+
+<hr>
 
 #### Contact: aikaterini.tzompanaki@cyu.fr ; corina.besliu@ati.utm.md
