@@ -44,11 +44,11 @@ The following list includes (but is not limited to) relevant topics that will be
 
 # Organisers
 
-### Alexandros Iosifidis, Tampere University, Finland
-### Nistor Grozavu, Cergy Paris University, France
-### Aikaterini Tzompanaki, Cergy Paris University, France 
-### Corina Besliu, Technical University of Moldova, Moldova 
-### Nicoleta Rogovschi,  Paris Descartes University, France
+#### Alexandros Iosifidis, Tampere University, Finland
+#### Nistor Grozavu, Cergy Paris University, France
+#### Aikaterini Tzompanaki, Cergy Paris University, France 
+#### Corina Besliu, Technical University of Moldova, Moldova 
+#### Nicoleta Rogovschi,  Paris Descartes University, France
 
 <hr>
 
