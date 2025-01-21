@@ -72,7 +72,7 @@ We accept full or short paper submissions. Full paper submissions (up to 8 pages
 
 **Dimitris Sacharidis, Université Libre de Bruxelles, Belgium**<br>
 **Illia Oleksiienko, Aarhus University, Denmark**<br>
-**Nikos Passalis, Aristotle University of Thessaloniki, Greece**<br>
+**Nikolaos Passalis, Aristotle University of Thessaloniki, Greece**<br>
 TBC
 <hr>
 
