@@ -1,6 +1,5 @@
 # 	ForgtAI : International Workshop on Forging Trust in Artificial Intelligence
-Collocated with the _International Joint Conference on Neural Networks (IJCNN) 2025, 30/6-5/7 2025, ROME_
-
+ 
 Establishing and upholding trust in AI systems is an imperative pursuit as Machine Learning becomes intricately interwoven into our daily lives. The workshop, "Forging Trust in Artificial Intelligence" brings together a group of experts and researchers from diverse subfields, converging on the exploration of how transparency, fairness, privacy, and security collectively contribute to making machine learning trustworthy. By uniting experts across these pivotal disciplines, this workshop illuminates the best practices that not only enhance the trustworthiness of AI but also reinforce its ethical foundations.
 
 Ensuring trust in machine learning is necessary for unlocking its potential while minimizing risks. This is especially true in the current environment, where the constant expansion of data sources aligns with a growing interest in using them to develop comprehensive and universally applicable AI systems. This interest highlights the need to address issues related to transparency, fairness, privacy and security, particularly in the area of multimodal learning, where various data types and learners are combined to create sophisticated, but often opaque AI systems.
@@ -42,8 +41,8 @@ Fairness and Ethical Development
 
 ### Alexandros Iosifidis, Tampere University, Finland
 ### Nistor Grozavu, Cergy Paris University, France
-### Aikaterini Tzompanaki, Cergy Paris University, France
-### Corina Besliu, Technical University of Moldova, Moldova
+### Aikaterini Tzompanaki, Cergy Paris University, France - [contact](aikaterini.tzompanaki@cyu.fr) 
+### Corina Besliu, Technical University of Moldova, Moldova - [contact](corina.besliu@ati.utm.md)
 ### Nicoleta Rogovschi,  Paris Descartes University, France
 
 # Paper Submission
@@ -55,4 +54,4 @@ We accept full or short paper submissions. Full paper submissions (up to 8 pages
 TBA
 
 # Sponsors
-The workshop is organised under the support of the PANDORA European project https://pandora-heu.eu/
+The workshop is organised under the support of the [PANDORA](https://pandora-heu.eu/) European project.
