@@ -42,6 +42,9 @@ The following list includes (but is not limited to) relevant topics that will be
 
 <hr>
 
+# Keynote Speaker
+TBA
+
 # Organisers
 
 **Alexandros Iosifidis, Tampere University, Finland**<br>
