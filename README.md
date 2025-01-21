@@ -10,32 +10,35 @@ The following list includes (but is not limited to) relevant topics that will be
 
 ## Interpretability in ML and NLP Models
  <ul>
-              <li>Interpretable Natural Language Processing Models</a></li>
-              <li>Visual Explanations for Language Models</a></li>
-              <li>Techniques for model transparency and interpretability</a></li>
-              <li>Interpretability in Multimodal Learning</a></li>
-              <li>Privacy and Security</a></li>
+              <li>Interpretable Natural Language Processing Models</li>
+              <li>Visual Explanations for Language Models</li>
+              <li>Techniques for model transparency and interpretability</li>
+              <li>Interpretability in Multimodal Learning</li>
+              <li>Privacy and Security</li>
   </ul> 
 
 ## Algorithmic Fairness in Machine Learning
+ <ul>
+              <li>Fairness Evaluation and Metrics in ML</li>
+              <li>Ethical AI Development and Deployment</li>
+              <li>Bias Mitigation in AI</li>
+              <li>Fairness in Multimodal Learning</li>
+              <li>Fairness in Collaborative Learning</li>
+              <li>Transparency and Fairness in Federated Learning</li>
+              <li>Explainable and Fair AI Models</li>
 
-Fairness Evaluation and Metrics in ML
-Ethical AI Development and Deployment
-Bias Mitigation in AI
-Fairness in Multimodal Learning
-Fairness in Collaborative Learning
-Transparency and Fairness in Federated Learning
-Explainable and Fair AI Models
+  </ul> 
 
 ## Privacy-Preserving Machine Learning and Data Sharing
+ <ul>
+              <li>Privacy-Preserving Data Anonymization Techniques</li>
+              <li>Federated Learning and Privacy</li>
+              <li>Homomorphic Encryption for Secure ML</li>
+              <li>Differential Privacy in Machine Learning</li>
+              <li>ML for Security and Adversarial Attacks</li>
+              <li>Fairness and Ethical Development</li>
 
-Privacy-Preserving Data Anonymization Techniques
-Federated Learning and Privacy
-Homomorphic Encryption for Secure ML
-Privacy-Preserving Clustering and Classification
-Differential Privacy in Machine Learning
-ML for Security and Adversarial Attacks
-Fairness and Ethical Development
+  </ul> 
 
 <hr>
 
