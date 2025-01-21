@@ -44,11 +44,11 @@ The following list includes (but is not limited to) relevant topics that will be
 
 # Organisers
 
-#### Alexandros Iosifidis, Tampere University, Finland
-#### Nistor Grozavu, Cergy Paris University, France
-#### Aikaterini Tzompanaki, Cergy Paris University, France 
-#### Corina Besliu, Technical University of Moldova, Moldova 
-#### Nicoleta Rogovschi,  Paris Descartes University, France
+**Alexandros Iosifidis, Tampere University, Finland**
+**Nistor Grozavu, Cergy Paris University, France**
+**Aikaterini Tzompanaki, Cergy Paris University, France**
+**Corina Besliu, Technical University of Moldova, Moldova** 
+**Nicoleta Rogovschi,  Paris Descartes University, France**
 
 <hr>
 
@@ -61,8 +61,11 @@ We accept full or short paper submissions. Full paper submissions (up to 8 pages
 <hr>
 
 # Program Committee
-TBA
 
+**Dimitris Sacharidis, Université Libre de Bruxelles, Belgium**
+**Illia Oleksiienko, Aarhus University, Denmark**
+**Nikos Passalis, Aristotle University of Thessaloniki, Greece**
+TBC
 <hr>
 
 # Sponsors
