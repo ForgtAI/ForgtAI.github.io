@@ -45,13 +45,8 @@ The following list includes (but is not limited to) relevant topics that will be
 # Keynote Speaker
 TBA
 
-# Organisers
 
-**Alexandros Iosifidis, Tampere University, Finland**<br>
-**Nistor Grozavu, Cergy Paris University, France**<br>
-**Aikaterini Tzompanaki, Cergy Paris University, France**<br>
-**Corina Besliu, Technical University of Moldova, Moldova** <br>
-**Nicoleta Rogovschi,  Paris Descartes University, France**<br>
+
 
 <hr>
 
@@ -60,6 +55,16 @@ TBA
 We accept full or short paper submissions. Full paper submissions (up to 8 pages) will be considered for publication in the IJCNN 2025 proceedings on the IEEE Xplore Digital Library, and will be oraly presented during the workshop. Short papers and extended abstracts (up to 4 pages) will be considered for oral presentations or poster presentations at the workshop; however, these will not be included in the proceedings. Papers must be submitted through the IJCNN 2025 CMT System. For submission guidelines please check [here](https://2025.ijcnn.org/authors/initial-author-instructions).
 ## Submission Deadline: 20/03/2025
 ## Acceptance Notification: 15/04/2025
+
+<hr>
+
+# Organisers
+
+**Alexandros Iosifidis, Tampere University, Finland**<br>
+**Nistor Grozavu, Cergy Paris University, France**<br>
+**Aikaterini Tzompanaki, Cergy Paris University, France**<br>
+**Corina Besliu, Technical University of Moldova, Moldova** <br>
+**Nicoleta Rogovschi,  Paris Descartes University, France**<br>
 
 <hr>
 
