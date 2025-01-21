@@ -36,13 +36,14 @@ Differential Privacy in Machine Learning
 ML for Security and Adversarial Attacks
 Fairness and Ethical Development
 
+<hr>
 
 # Organisers
 
 ### Alexandros Iosifidis, Tampere University, Finland
 ### Nistor Grozavu, Cergy Paris University, France
-### Aikaterini Tzompanaki, Cergy Paris University, France - [contact](aikaterini.tzompanaki@cyu.fr) 
-### Corina Besliu, Technical University of Moldova, Moldova - [contact](corina.besliu@ati.utm.md)
+### Aikaterini Tzompanaki, Cergy Paris University, France 
+### Corina Besliu, Technical University of Moldova, Moldova 
 ### Nicoleta Rogovschi,  Paris Descartes University, France
 
 # Paper Submission
@@ -55,3 +56,5 @@ TBA
 
 # Sponsors
 The workshop is organised under the support of the [PANDORA](https://pandora-heu.eu/) European project.
+
+#### Contact: aikaterini.tzompanaki@cyu.fr ; corina.besliu@ati.utm.md
