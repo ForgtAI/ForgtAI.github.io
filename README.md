@@ -9,12 +9,13 @@ Within this context, establishing best practices for data integration is essenti
 The following list includes (but is not limited to) relevant topics that will be addressed within this workshop:  
 
 ## Interpretability in ML and NLP Models
-
-Interpretable Natural Language Processing Models
-Visual Explanations for Language Models
-Techniques for model transparency and interpretability
-Interpretability in Multimodal Learning
-Privacy and Security
+ <ul>
+              <li>Interpretable Natural Language Processing Models</a></li>
+              <li>Visual Explanations for Language Models</a></li>
+              <li>Techniques for model transparency and interpretability</a></li>
+              <li>Interpretability in Multimodal Learning</a></li>
+              <li>Privacy and Security</a></li>
+  </ul> 
 
 ## Algorithmic Fairness in Machine Learning
 
