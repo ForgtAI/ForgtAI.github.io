@@ -70,9 +70,10 @@ We accept full or short paper submissions. Full paper submissions (up to 8 pages
 
 # Program Committee
 
-**Dimitris Sacharidis, Université Libre de Bruxelles, Belgium**<br>
+**Luis Galárraga, INRIA/IRISA, France**<br>
 **Illia Oleksiienko, Aarhus University, Denmark**<br>
 **Nikolaos Passalis, Aristotle University of Thessaloniki, Greece**<br>
+**Dimitris Sacharidis, Université Libre de Bruxelles, Belgium**<br>
 TBC
 <hr>
 
