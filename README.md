@@ -1,20 +1,34 @@
-# 	ForgtAI : International Workshop on Forging Trust in Artificial Intelligence
+#	ForgtAI : International Workshop on Forging Trust in Artificial Intelligence
  
-Establishing and upholding trust in AI systems is an imperative pursuit as Machine Learning becomes intricately interwoven into our daily lives. The workshop, "Forging Trust in Artificial Intelligence" brings together a group of experts and researchers from diverse subfields, converging on the exploration of how transparency, fairness, privacy, and security collectively contribute to making machine learning trustworthy. By uniting experts across these pivotal disciplines, this workshop illuminates the best practices that not only enhance the trustworthiness of AI but also reinforce its ethical foundations.
+Establishing and upholding trust in AI systems is an imperative pursuit as Machine Learning becomes intricately interwoven into our daily lives. The workshop "Forging Trust in Artificial Intelligence" brings together a group of experts and researchers from diverse subfields, converging on the exploration of how transparency, fairness, privacy, and security collectively contribute to making machine learning trustworthy. By uniting experts across these pivotal disciplines, this workshop illuminates the best practices that not only enhance the trustworthiness of AI but also reinforce its ethical foundations. Building on the success of the last year’s workshop, which focused on explainability and security in vision AI, this year’s event shifts its attention to the challenges of managing _sequential and multimodal data in NLP and IoT_. These areas are at the forefront of human-AI interaction: large language models (LLMs) already shape how we access information and make decisions,  while smart IoT systems increasingly define automated processes that directly affect not only the industry but also our everyday lives.
 
-Ensuring trust in machine learning is necessary for unlocking its potential while minimizing risks. This is especially true in the current environment, where the constant expansion of data sources aligns with a growing interest in using them to develop comprehensive and universally applicable AI systems. This interest highlights the need to address issues related to transparency, fairness, privacy and security, particularly in the area of multimodal learning, where various data types and learners are combined to create sophisticated, but often opaque AI systems.
+This year’s workshop highlights explainability as a cornerstone of trustworthy AI. It tackles the complexities of understanding how neural networks operate, from demystifying the outputs of LLMs to clarifying automated decisions in continuous IoT environments, and eventually providing more tools to improving AI performance.  Ensuring fairness and mitigating biases are also central themes, as these systems increasingly influence critical aspects of human life. By focusing on transparency and ethical practices, the ForgAI Workshop seeks to equip participants with actionable insights and methodologies for building AI systems that inspire confidence and align with societal values.
+By aligning with IJCNN’s mission to explore the latest advancements in neural networks, the workshop deepens the conversation around responsible AI development. It emphasizes that explainability is not just a technical challenge but a fundamental requirement for creating AI systems that serve as reliable and ethical partners in human-AI interactions.
 
-Within this context, establishing best practices for data integration is essential to ensure transparency and interpretability of AI systems based on diverse learners. Fairness considerations, on the other hand, may involve identifying and addressing potential biases from different modalities. This includes exploring approaches to mitigate their impact and leveraging fair representation learning when integrating information from sources with varying bias levels. By addressing such issues alongside data privacy and security concerns, this workshop aims to contribute to the development of ethical, transparent, and secure AI that has a positive impact on our global society’s well-being.
 
 The following list includes (but is not limited to) relevant topics that will be addressed within this workshop:  
 
-## Interpretability in ML and NLP Models
+## Explainability in ML and NLP Models
  <ul>
-              <li>Interpretable Natural Language Processing Models</li>
+              <li>Explainable Natural Language Processing Models</li>
               <li>Visual Explanations for Language Models</li>
+              <li>Explainable Large Language Models</li>               
+              <li>Interpretable Architectures for Large Language Models</li>
               <li>Techniques for model transparency and interpretability</li>
-              <li>Interpretability in Multimodal Learning</li>
+              <li>Explainability in Multimodal Learning</li>
               <li>Privacy and Security</li>
+  </ul> 
+
+## Explainability in IoT
+ <ul>
+              <li>Interpretable Machine Learning Models for IoT Data</li>
+              <li>Explainable Anomaly Detection in IoT Networks</li>
+              <li>Explainability for Federated Learning in IoTL</li>
+              <li>Causal Inference and Explainability in IoT Applications</li>
+              <li>Human-Centric Explainability in IoT</li>
+              <li>Continual Learning and Explainability</li>
+              <li>Explainable Predictive Maintenance</li>
+
   </ul> 
 
 ## Algorithmic Fairness in Machine Learning
@@ -29,16 +43,7 @@ The following list includes (but is not limited to) relevant topics that will be
 
   </ul> 
 
-## Privacy-Preserving Machine Learning and Data Sharing
- <ul>
-              <li>Privacy-Preserving Data Anonymization Techniques</li>
-              <li>Federated Learning and Privacy</li>
-              <li>Homomorphic Encryption for Secure ML</li>
-              <li>Differential Privacy in Machine Learning</li>
-              <li>ML for Security and Adversarial Attacks</li>
-              <li>Fairness and Ethical Development</li>
 
-  </ul> 
 
 <hr>
 
