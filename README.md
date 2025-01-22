@@ -84,7 +84,7 @@ TBC
 <hr>
 
 # Sponsors
-The workshop is organised under the support of the [PANDORA](https://pandora-heu.eu/) European project.
+The workshop is organised under the support of the [PANDORA](https://pandora-heu.eu/) European project and the german company [OTRS GmbH](https://otrs.com/de/home/).
 
 <hr>
 
