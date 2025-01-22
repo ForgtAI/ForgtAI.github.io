@@ -19,7 +19,7 @@ The following list includes (but is not limited to) relevant topics that will be
               <li>Privacy and Security</li>
   </ul> 
 
-## Explainability in IoT
+## Explainability in AIoT (Artificial Intelligence in IoT)
  <ul>
               <li>Interpretable Machine Learning Models for IoT Data</li>
               <li>Explainable Anomaly Detection in IoT Networks</li>
