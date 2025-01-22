@@ -66,8 +66,8 @@ We accept full or short paper submissions. Full paper submissions (up to 8 pages
 # Organisers
 
 **Alexandros Iosifidis, Tampere University, Finland**<br>
-**Nistor Grozavu, Cergy Paris University, France**<br>
-**Aikaterini Tzompanaki, Cergy Paris University, France**<br>
+**Nistor Grozavu, Cergy Paris University/ETIS, France**<br>
+**Aikaterini Tzompanaki, Cergy Paris University/ETIS, France**<br>
 **Corina Besliu, Technical University of Moldova, Moldova** <br>
 **Nicoleta Rogovschi,  Paris Descartes University, France**<br>
 
@@ -75,6 +75,7 @@ We accept full or short paper submissions. Full paper submissions (up to 8 pages
 
 # Program Committee
 
+**Hajer Baazaoui, CY Cergy Paris University/ETIS, France**<br>
 **Luis Galárraga, INRIA/IRISA, France**<br>
 **Illia Oleksiienko, Aarhus University, Denmark**<br>
 **Nikolaos Passalis, Aristotle University of Thessaloniki, Greece**<br>
