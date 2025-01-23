@@ -57,7 +57,7 @@ TBA
 
 # Paper Submission
 
-We accept full or short paper submissions. Full paper submissions (up to 8 pages) will be considered for publication in the IJCNN 2025 proceedings on the IEEE Xplore Digital Library, and will be oraly presented during the workshop. Short papers and extended abstracts (up to 4 pages) will be considered for oral presentations or poster presentations at the workshop; however, these will not be included in the proceedings. Papers must be submitted through the [IJCNN 2025 CMT System](https://cmt3.research.microsoft.com/IJCNN2025/Track/3/Submission/Create). For submission guidelines please check [here](https://2025.ijcnn.org/authors/initial-author-instructions).
+We accept full or short paper submissions. **Full paper submissions (up to 8 pages)** will be considered for publication in the IJCNN 2025 proceedings on the IEEE Xplore Digital Library, and will be oraly presented during the workshop. **Short papers and extended abstracts (up to 4 pages)** will be considered for oral presentations or poster presentations at the workshop; however, these will not be included in the proceedings. Papers must be submitted through the [IJCNN 2025 CMT System](https://cmt3.research.microsoft.com/IJCNN2025/Track/3/Submission/Create). For submission guidelines please check [here](https://2025.ijcnn.org/authors/initial-author-instructions).
 ## Submission Deadline: 20/03/2025
 ## Acceptance Notification: 15/04/2025
 
