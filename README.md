@@ -76,6 +76,7 @@ We accept full or short paper submissions. Full paper submissions (up to 8 pages
 # Program Committee
 
 **Hajer Baazaoui, CY Cergy Paris University/ETIS, France**<br>
+**Georgios Bouloukakis, Télécom SudParis/IP-Paris, France**<br>
 **Luis Galárraga, INRIA/IRISA, France**<br>
 **Illia Oleksiienko, Aarhus University, Denmark**<br>
 **Nikolaos Passalis, Aristotle University of Thessaloniki, Greece**<br>
