@@ -78,6 +78,8 @@ We accept full or short paper submissions. **Full paper submissions (up to 8 pag
 **Hajer Baazaoui, CY Cergy Paris University/ETIS, France**<br>
 **Georgios Bouloukakis, Télécom SudParis/IP-Paris, France**<br>
 **Luis Galárraga, INRIA/IRISA, France**<br>
+**Apostolos Giannoulidis, Aristotle University of Thessaloniki, Greece**<br>
+**Michele Linardi,CY Cergy Paris University/ETIS, France**<br> 
 **Illia Oleksiienko, Aarhus University, Denmark**<br>
 **Nikolaos Passalis, Aristotle University of Thessaloniki, Greece**<br>
 **Dimitris Sacharidis, Université Libre de Bruxelles, Belgium**<br>
