@@ -20,10 +20,14 @@
 .main-content h4{
     color: #355C85; 
 }
+
 header {   
-    background-color: #E0DED4; 
+    background-color: #E0DED4 !important; 
     h1 {
         color: #0E2037;
+    }
+    h2 {
+        color: #355C85;
     }
 }
 
