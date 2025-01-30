@@ -8,7 +8,7 @@ By aligning with IJCNN’s mission to explore the latest advancements in neural 
 
 The following list includes (but is not limited to) relevant topics that will be addressed within this workshop:  
 
-## Explainability in ML and NLP Models
+<h2> Explainability in ML and NLP Models </h2>
  <ul>
               <li>Explainable Natural Language Processing Models</li>
               <li>Visual Explanations for Language Models</li>
@@ -19,7 +19,7 @@ The following list includes (but is not limited to) relevant topics that will be
               <li>Privacy and Security</li>
   </ul> 
 
-## Explainability in AIoT (Artificial Intelligence in IoT)
+<h2> Explainability in AIoT (Artificial Intelligence in IoT)</h2>
  <ul>
               <li>Interpretable Machine Learning Models for IoT Data</li>
               <li>Explainable Anomaly Detection in IoT Networks</li>
@@ -31,7 +31,7 @@ The following list includes (but is not limited to) relevant topics that will be
 
   </ul> 
 
-## Algorithmic Fairness in Machine Learning
+<h2> Algorithmic Fairness in Machine Learning</h2>
  <ul>
               <li>Fairness Evaluation and Metrics in ML</li>
               <li>Ethical AI Development and Deployment</li>
@@ -47,7 +47,7 @@ The following list includes (but is not limited to) relevant topics that will be
 
 <hr>
 
-# Keynote Speaker
+<h1># Keynote Speaker</h1>
 TBA
 
 
@@ -55,7 +55,7 @@ TBA
 
 <hr>
 
-# Paper Submission
+<h1> Paper Submission</h1>
 
 We accept full or short paper submissions. **Full paper submissions (up to 8 pages)** will be considered for publication in the IJCNN 2025 proceedings on the IEEE Xplore Digital Library, and will be oraly presented during the workshop. **Short papers and extended abstracts (up to 4 pages)** will be considered for oral presentations or poster presentations at the workshop; however, these will not be included in the proceedings. Papers must be submitted through the [IJCNN 2025 CMT System](https://cmt3.research.microsoft.com/IJCNN2025/Track/3/Submission/Create). For submission guidelines please check [here](https://2025.ijcnn.org/authors/initial-author-instructions).
 ## Submission Deadline: 20/03/2025
@@ -63,7 +63,7 @@ We accept full or short paper submissions. **Full paper submissions (up to 8 pag
 
 <hr>
 
-# Organisers
+<h1> Organisers</h1>
 
 **Alexandros Iosifidis, Tampere University, Finland**<br>
 **Nistor Grozavu, Cergy Paris University/ETIS, France**<br>
@@ -73,7 +73,7 @@ We accept full or short paper submissions. **Full paper submissions (up to 8 pag
 
 <hr>
 
-# Program Committee
+<h1> Program Committee</h1>
 
 **Hajer Baazaoui, CY Cergy Paris University/ETIS, France**<br>
 **Georgios Bouloukakis, Télécom SudParis/IP-Paris, France**<br>
@@ -84,12 +84,12 @@ We accept full or short paper submissions. **Full paper submissions (up to 8 pag
 **Nikolaos Passalis, Aristotle University of Thessaloniki, Greece**<br>
 **Dimitris Sacharidis, Université Libre de Bruxelles, Belgium**<br>
 **Konstantinos Stefanidis, Tampere University, Finland**<br>
-TBC
+
 <hr>
 
-# Sponsors
+<h1> Sponsors</h1>
 The workshop is organised under the support of the [PANDORA](https://pandora-heu.eu/) European project and the german company [OTRS GmbH](https://otrs.com/de/home/).
 
 <hr>
 
-#### Contact: aikaterini.tzompanaki@cyu.fr ; corina.besliu@ati.utm.md
+<h4> Contact: aikaterini.tzompanaki@cyu.fr ; corina.besliu@ati.utm.md </h4>
