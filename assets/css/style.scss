@@ -19,6 +19,13 @@ header {
     }
 }
 
-#banner { 
-    background: #E0DED4;
+.banner {
+    background: url('/logo.png') no-repeat center center;
+    background-size: contain; /* Adjust this based on your needs */
+    
+}
+
+/* Remove the default Cayman theme overlay color */
+.banner::before {
+    background: none;
 }
