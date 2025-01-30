@@ -31,3 +31,6 @@ header {
     height: 400px;  /* Adjust height as needed */
     background-color: transparent !important; /* Ensure the background color doesn't show */
 }
+.site-title, .site-description {
+    display: none !important;
+}
