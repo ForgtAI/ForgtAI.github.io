@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+body {
+    font: unset;
+    color: #000000;
+}
+
+header {   
+    background: #E0DED4; 
+    h1 {
+        color: #2A394B;
+    }
+}
+
+#banner { 
+    background: #E0DED4;
+}
