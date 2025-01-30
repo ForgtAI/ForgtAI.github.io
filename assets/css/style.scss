@@ -21,21 +21,12 @@
     color: #355C85; 
 }
 
-.banner {
+
+
+header {
+    background-image: url('/ForgtAI_logo.png') !important;  /* Path to your image */
     background-size: cover;
     background-position: center center;
+    height: 400px;  /* Adjust height as needed */
+    background-color: transparent !important; /* Ensure the background color doesn't show */
 }
-
-
-header  {   
-    background: #E5E5DF !important;  
-    background-image: none !important;  
-    background-color: #E5E5DF !important;  
-    h1{
-    color: #0F2038; 
-    }
-    h2{
-    color: #355C85; 
-    }
-}
-
