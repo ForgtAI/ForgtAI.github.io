@@ -8,10 +8,18 @@
 .main-content {
     color: #0E2037; 
 }
-.main-content h1, h2,h3{
+.main-content h1{
     color: #355C85; 
 }
-
+.main-content h2{
+    color: #355C85; 
+}
+.main-content h3{
+    color: #355C85; 
+}
+.main-content h4{
+    color: #355C85; 
+}
 header {   
     background: #E0DED4; 
     h1 {
@@ -20,12 +28,8 @@ header {
 }
 
 .banner {
-    background: url('/logo.png') no-repeat center center;
-    background-size: contain; /* Adjust this based on your needs */
-    
+    background-color: #E0DED4; 
 }
-
-/* Remove the default Cayman theme overlay color */
 .banner::before {
     background: none;
 }
