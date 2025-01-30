@@ -25,7 +25,8 @@
 
 header {
     background-image: url('/ForgtAI_logo.png') !important;  /* Path to your image */
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat; 
     background-position: center center;
     height: 400px;  /* Adjust height as needed */
     background-color: transparent !important; /* Ensure the background color doesn't show */
