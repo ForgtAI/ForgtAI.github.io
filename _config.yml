@@ -3,6 +3,3 @@ description: collocated with the International Joint Conference on Neural Networ
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
-header:
-  image: ./ForgtAI_logo.png
-  background_color: "#E5E5DF"
