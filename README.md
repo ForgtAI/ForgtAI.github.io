@@ -47,8 +47,8 @@ The following list includes (but is not limited to) relevant topics that will be
 
 <hr>
 
-<h1> Keynote Speaker</h1>
-TBA
+<h1> Invited Speaker</h1>
+Professor Vassilis Christophides, ENSEA/ETIS lab, France
 
 
 
