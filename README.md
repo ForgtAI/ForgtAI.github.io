@@ -47,8 +47,11 @@ The following list includes (but is not limited to) relevant topics that will be
 
 <hr>
 
-<h1> Invited Speaker</h1>
-**Professor Vassilis Christophides, ENSEA/ETIS, France**
+<h1> Invited Speakers</h1>
+
+**Professor Vassilis Christophides, ENSEA/ETIS, France** <br>
+and<br> 
+**Professor Anastasios Tefas,  Aristotle University of Thessaloniki, Greece**
 
 
 
