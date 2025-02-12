@@ -51,10 +51,10 @@ The following list includes (but is not limited to) relevant topics that will be
 
 **Professor Vassilis Christophides, ENSEA/ETIS, France** <br>
 and<br> 
-**Professor Anastasios Tefas,  Aristotle University of Thessaloniki, Greece**
-
-
-
+**Professor Anastasios Tefas,  Aristotle University of Thessaloniki, Greece**<br>
+**Title**: Trustworthiness in AI and Autonomous Systems<br>
+**Short Bio**: Anastasios Tefas received the B.Sc. in informatics in 1997 and the Ph.D. degree in informatics in 2002, both from the Aristotle University of Thessaloniki, Greece. Since 2022 he has been a Professor at the Department of Informatics, Aristotle University of Thessaloniki. From 2008 to 2022, he was a Lecturer, Assistant Professor, Associate Professor at the same University. He is the director of the MSc program on Artificial Intelligence in the Dept. of Informatics. Prof. Tefas coordinated 16 and participated in 20 research projects financed by national, private and European funds. He was the Coordinator of the H2020 project OpenDR, “Open Deep Learning Toolkit for Robotics”. He has co-authored 160 journal papers, 300 papers in international conferences and contributed 17 chapters to edited books in his area of expertise. He has co-organized more than 15 workshops, tutorials, special sessions, and special issues and has given more than 20 invited talks. He has co-edited the book “Deep Learning for Robot Perception and Cognition”, Elsevier, 2022. Over 13000 citations have been recorded to his publications and his H-index is 55 according to Google scholar. His current research interests include computational intelligence, deep learning, machine learning, data analysis and retrieval, computer vision, autonomous systems and robotics.
+<br>
 
 <hr>
 
