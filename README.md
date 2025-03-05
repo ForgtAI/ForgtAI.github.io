@@ -91,6 +91,7 @@ We accept full or short paper submissions. **Full paper submissions (up to 8 pag
 **Apostolos Giannoulidis, Aristotle University of Thessaloniki, Greece**<br>
 **Michele Linardi,CY Cergy Paris University/ETIS, France**<br> 
 **Illia Oleksiienko, Aarhus University, Denmark**<br>
+**Marina Papatriantafillou, Chalmers University of Technology, Sweden**<br>
 **Nikolaos Passalis, Aristotle University of Thessaloniki, Greece**<br>
 **Dimitris Sacharidis, Université Libre de Bruxelles, Belgium**<br>
 **Konstantinos Stefanidis, Tampere University, Finland**<br>
