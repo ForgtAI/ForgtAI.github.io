@@ -1,4 +1,4 @@
-<h1>	ForgtAI : International Workshop on Forging Trust in Artificial Intelligence </h1>
+<h1>	ForgtAI : International Workshop on Forging Trust in Artificial Intelligence -- DEADLINE EXTENDED to 27/03/2025 </h1>
  
 Establishing and upholding trust in AI systems is an imperative pursuit as Machine Learning becomes an everyday commodity in our lives. The workshop "Forging Trust in Artificial Intelligence" brings together a group of experts and researchers from diverse subfields, converging on the exploration of how transparency, explainability, fairness, and privacy collectively contribute to making machine learning trustworthy. By uniting experts across these pivotal disciplines, this workshop illuminates the best practices that not only enhance the trustworthiness of AI but also reinforce its ethical foundations. Building on the success of the last year’s workshop, which focused on explainability and security in vision AI, this year’s event shifts its attention to the challenges of managing _sequential and multimodal data in NLP and IoT_. These areas are at the forefront of human-AI interaction: large language models (LLMs) already shape how we access information and make decisions,  while smart IoT systems increasingly define automated processes that directly affect not only the industry but also our everyday lives.
 
@@ -68,7 +68,7 @@ In this presentation, we will introduce an explainable-by-design framework allow
 <h1> Paper Submission</h1>
 
 We accept full or short paper submissions. **Full paper submissions (up to 8 pages)** will be considered for **publication in the IJCNN 2025 proceedings on the IEEE Xplore Digital Library**, and will be oraly presented during the workshop. Full papers must follow the same author guidelines ([check here](https://2025.ijcnn.org/authors/initial-author-instructions)) as the papers of the main conference (double blind), and will be reviewed by 3 reviwers of our program committee. **Short papers and extended abstracts (up to 4 pages)** will be considered for oral presentations or poster presentations at the workshop; however, these will not be included in the proceedings. Papers must be submitted through the [IJCNN 2025 CMT System](https://cmt3.research.microsoft.com/IJCNN2025/Track/3/Submission/Create), by selecting the workshop name 'International Workshop on Forging Trust in Artificial Intelligence 2025' in the Subject Area.  
-## Submission Deadline: 20/03/2025
+## Submission Deadline: ~~20/03/2025~~ 27/03/2025
 ## Acceptance Notification: 15/04/2025
 
 <hr>
