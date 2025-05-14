@@ -101,7 +101,7 @@ We accept full or short paper submissions. **Full paper submissions (up to 8 pag
 <hr>
 
 <h1> Sponsors</h1>
-The workshop is organised under the support of the [PANDORA](https://pandora-heu.eu/) European project and the german company [OTRS GmbH](https://otrs.com/de/home/).
+The workshop is organised under the support of the [PANDORA](https://pandora-heu.eu/) European project and the BEVIAN company.
 
 <hr>
 
