@@ -1,6 +1,8 @@
 
 ## Workshop Program
-You can see the program here:
+The Workshop will take place on the 5th of July, from 10:00 to 13:00, at the Trilussa room, of the Pontificia Università Gregoriana.
+
+You can see the full program here:
 👉  [📄 Open program](https://forgtai.github.io/ForgtAI%20Workshop%20Program%202025.pdf) 
 
 
