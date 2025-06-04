@@ -1,6 +1,7 @@
 
-
- [<h2> 📄 Program available!!](https://forgtai.github.io/ForgtAI%20Workshop%20Program%202025.pdf) </h2>
+## 📘 Workshop Program
+You can see the program here:
+ [📄 Open program](https://forgtai.github.io/ForgtAI%20Workshop%20Program%202025.pdf) 
 
 Establishing and upholding trust in AI systems is an imperative pursuit as Machine Learning becomes an everyday commodity in our lives. The workshop "Forging Trust in Artificial Intelligence" brings together a group of experts and researchers from diverse subfields, converging on the exploration of how transparency, explainability, fairness, and privacy collectively contribute to making machine learning trustworthy. By uniting experts across these pivotal disciplines, this workshop illuminates the best practices that not only enhance the trustworthiness of AI but also reinforce its ethical foundations. Building on the success of the last year’s workshop, which focused on explainability and security in vision AI, this year’s event shifts its attention to the challenges of managing _sequential and multimodal data in NLP and IoT_. These areas are at the forefront of human-AI interaction: large language models (LLMs) already shape how we access information and make decisions,  while smart IoT systems increasingly define automated processes that directly affect not only the industry but also our everyday lives.
 
