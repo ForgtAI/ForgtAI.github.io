@@ -4,7 +4,8 @@ The Workshop will take place on the 5th of July, from 10:00 to 13:00, at the Tri
 
 You can see the full program here:
 👉  [📄 Open program](https://forgtai.github.io/ForgtAI%20Workshop%20Program%202025.pdf) 
-
+Register here:
+👉 [Register](https://2025.ijcnn.org/registration)
 
 <h1>Workshop Description</h1>
 
